@@ -6,7 +6,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and see 
 
 ### My Setup 💻
 
-I use a MacBook Pro 2019 daily to develop my web applications.
+I use a _MacBook Pro 2019_ daily to develop my web applications.
 
 Let's code!
 
