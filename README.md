@@ -1,16 +1,13 @@
 ### Hi there, I'm Yann! 👋
 
 I store my projects there. Most of them are personal projects where I seek to apply the knowledge I have acquired.
-
 You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and see some of my projects on [Instagram](https://www.instagram.com/the_iandev/).
 
-Let's code!
-
-#### My Setup 💻
+### My Setup 💻
 
 I use a MacBook Pro 2019 daily to develop my web applications.
 
-[![Yann's github stats](https://github-readme-stats.vercel.app/api?username=ianlcz)](https://github.com/ianlcz/github-readme-stats)
+Let's code!
 
 <!--
 **ianlcz/ianlcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
