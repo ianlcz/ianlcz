@@ -2,7 +2,7 @@
 
 I store my projects there. Most of them are personal projects where I seek to apply the knowledge I have acquired.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and see some of my projects on [Instagram](https://www.instagram.com/the_iandev/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and see some of my projects on [Instagram](https://www.instagram.com/ianlcz.io/).
 
 ### My Setup 💻
 
