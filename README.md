@@ -2,7 +2,9 @@
 
 I store my projects there. Most of them are personal projects where I seek to apply the knowledge I have acquired.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and see some of my projects on [Instagram](https://www.instagram.com/ianlcz.io/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and visit my portfolio website [ianlcz.io](https://www.ianlcz.io/) to read my blog or see some of my major web applications.
+
+In my spare time I like to go __climbing__, watch __fantasy or science-fiction movies__ or just listen to __80s music__. 
 
 ### My Setup 💻
 
