@@ -1,28 +1,25 @@
-### Hi there, I'm Yann! 👋
+## 👋 Hi there, I'm Yann!
 
-I store my projects there. Most of them are personal projects where I seek to apply the knowledge I have acquired.
+I'm a passionate Full-Stack Web Developer, specializing in JavaScript/TypeScript technologies. My experience spans a broad range of modern technologies, and I'm always keeping an eye on the latest advancements in the field.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and visit my portfolio website [ianlcz.io](https://www.ianlcz.io/) to read my blog or see some of my major web applications.
+### 💻 Technologies and Skills
 
-In my spare time I like to go __climbing__, watch __fantasy or science-fiction movies__ or just listen to __80s music__. 
+- **Front-end:** ReactJS, Next.js, TailwindCSS
+- **Back-end:** Node.js, Nest.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Visual Studio Code, Xcode, Docker, Vercel, Git
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **APIs:** REST, GraphQL
 
-### My Setup 💻
+### 🌱 Lifelong Learner
 
-I use a _MacBook Pro 2019_ daily to develop my web applications.
+I'm passionate about continuous learning and consistently strive to deepen my knowledge. Currently, I'm particularly interested in Development of applications for different Apple products with [Swift language](https://developer.apple.com/swift/) and [SwiftUI framework](https://developer.apple.com/xcode/swiftui/).
 
-Let's code!
+### 📫 Contact
 
-<!--
-**ianlcz/ianlcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out for discussions on exciting projects or just to exchange ideas. You can find me on [LinkedIn](https://www.linkedin.com/in/ianlcz/) and [Twitter](https://twitter.com/ianlcz).
 
-Here are some ideas to get you started:
+### 🚧 Always Growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in the world of development is ever-evolving, and I'm always open to collaborations and stimulating opportunities. Join me on this exciting adventure!
+
