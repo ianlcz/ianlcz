@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Yann!
 
-I'm a passionate Full-Stack Web Developer, specializing in JavaScript/TypeScript technologies. My experience spans a broad range of modern technologies, and I'm always keeping an eye on the latest advancements in the field.
+I'm a passionate Full-Stack Web Developer, specializing in **JavaScript/TypeScript** technologies. My experience spans a broad range of modern technologies, and I'm always keeping an eye on the latest advancements in the field.
 
 ### 💻 Technologies and Skills
 
@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Web Developer, specializing in JavaScript/TypeScript
 
 ### 🌱 Lifelong Learner
 
-I'm passionate about continuous learning and consistently strive to deepen my knowledge. Currently, I'm particularly interested in Development of applications for different Apple products with [Swift language](https://developer.apple.com/swift/) and [SwiftUI framework](https://developer.apple.com/xcode/swiftui/).
+I'm passionate about continuous learning and consistently strive to deepen my knowledge. Currently, I'm particularly interested in development of applications for different Apple products with [Swift language](https://developer.apple.com/swift/) and [SwiftUI framework](https://developer.apple.com/xcode/swiftui/).
 
 ### 📫 Contact
 
