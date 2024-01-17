@@ -2,12 +2,15 @@
 
 I'm a passionate Full-Stack Web Developer, specializing in **JavaScript/TypeScript** technologies. My experience spans a broad range of modern technologies, and I'm always keeping an eye on the latest advancements in the field.
 
+If you'd like to see my personal conventions, go [here](https://github.com/ianlcz/personal-conventions).
+
 ### 💻 Technologies and Skills
 
-- **Front-end:** ReactJS, Next.js, TailwindCSS
-- **Back-end:** Node.js, Nest.js
+- **Front-end:** ReactJS/Next.js, TailwindCSS
+- **Back-end:** Node.js, NestJS
 - **Database:** MongoDB, MySQL
-- **Tools:** Visual Studio Code, Xcode, Docker, Vercel, Git
+- **Tools:** Visual Studio Code, Xcode, Docker, Git
+- **Cloud:** Vercel
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **APIs:** REST, GraphQL
 
